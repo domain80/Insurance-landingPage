@@ -3,7 +3,7 @@ import React from "react";
 function HeroSection() {
 	return (
 		<section className="hero-section">
-			{/* <img src="" alt="family of 4 holding hands" /> */}
+			<img src="./images/mobile.jpg" alt="family of 4 holding hands" />
 			<article className="alt-bg">
 				<h1 className="hero-title">Humanizing your insurance.</h1>
 				<p className="hero-text">

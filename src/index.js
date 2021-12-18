@@ -5,7 +5,6 @@ import "./index.css";
 
 ReactDOM.render(
 	<React.Fragment>
-		<img src="./mobile.jpg" alt="this s " />
 		<App />
 	</React.Fragment>,
 

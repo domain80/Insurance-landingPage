@@ -43,7 +43,7 @@ h6 {
 }
 
 h1 {
-	font-size: 2.5rem;
+	font-size: 2.9rem;
 	line-height: 1em;
 	padding: 0.52em 0;
 	/* border-top: 2px solid var(--dark-violet); */
@@ -73,7 +73,7 @@ button:hover {
 .alt-bg {
 	background-color: var(--dark-violet);
 	color: var(--very-light-gray);
-	padding: 3rem 0;
+	padding: 2rem 0;
 }
 .alt-bg h1,
 .alt-bg h2,
@@ -85,7 +85,10 @@ button {
 }
 
 /*  =================  LAYOUTS ======================= */
-
+img {
+	display: block;
+	width: 100%;
+}
 nav,
 footer,
 section {
@@ -113,13 +116,13 @@ nav {
 .hero-section {
 	width: 100%;
 
-	/* padding: 0 5%; */
+	padding-top: 0;
 }
 .hero-section .alt-bg {
-	padding: 4rem 5%;
+	padding: 6rem 7%;
 }
 .hero-text {
-	margin: 1rem 0 2rem;
+	margin: 0rem 0 2rem;
 }
 
 /* --------------- */

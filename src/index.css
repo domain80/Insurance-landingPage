@@ -80,15 +80,6 @@ ul {
 		}
 	}
 
-	@keyframes fadeOut {
-		0% {
-			opacity: 1;
-		}
-		100% {
-			opacity: 0;
-		}
-	}
-
 	button {
 		padding: 0.8em 2em;
 		background-color: transparent;
@@ -215,7 +206,7 @@ ul {
 	/* --------------- */
 	.about-title::before {
 		content: " ";
-		background-color: var(--dark-grayish-violet);
+		background-color: var(--grayish-blue);
 		height: 0.1px;
 		max-width: 9rem;
 		width: 50%;

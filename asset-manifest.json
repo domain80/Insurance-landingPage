@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/Insurance-landingPage/static/css/main.48b6230c.chunk.css",
-    "main.js": "/github.io/Insurance-landingPage/static/js/main.0bf2fde5.chunk.js",
-    "main.js.map": "/github.io/Insurance-landingPage/static/js/main.0bf2fde5.chunk.js.map",
-    "runtime-main.js": "/github.io/Insurance-landingPage/static/js/runtime-main.ef81d7e5.js",
-    "runtime-main.js.map": "/github.io/Insurance-landingPage/static/js/runtime-main.ef81d7e5.js.map",
-    "static/js/2.030aec39.chunk.js": "/github.io/Insurance-landingPage/static/js/2.030aec39.chunk.js",
-    "static/js/2.030aec39.chunk.js.map": "/github.io/Insurance-landingPage/static/js/2.030aec39.chunk.js.map",
-    "index.html": "/github.io/Insurance-landingPage/index.html",
-    "static/css/main.48b6230c.chunk.css.map": "/github.io/Insurance-landingPage/static/css/main.48b6230c.chunk.css.map",
-    "static/js/2.030aec39.chunk.js.LICENSE.txt": "/github.io/Insurance-landingPage/static/js/2.030aec39.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/github.io/Insurance-landingPage/static/media/bg-pattern-mobile-nav.b2fceba3.svg"
+    "main.css": "/Insurance-landingPage/static/css/main.d2fd3e81.chunk.css",
+    "main.js": "/Insurance-landingPage/static/js/main.0bf2fde5.chunk.js",
+    "main.js.map": "/Insurance-landingPage/static/js/main.0bf2fde5.chunk.js.map",
+    "runtime-main.js": "/Insurance-landingPage/static/js/runtime-main.e196c021.js",
+    "runtime-main.js.map": "/Insurance-landingPage/static/js/runtime-main.e196c021.js.map",
+    "static/js/2.030aec39.chunk.js": "/Insurance-landingPage/static/js/2.030aec39.chunk.js",
+    "static/js/2.030aec39.chunk.js.map": "/Insurance-landingPage/static/js/2.030aec39.chunk.js.map",
+    "index.html": "/Insurance-landingPage/index.html",
+    "static/css/main.d2fd3e81.chunk.css.map": "/Insurance-landingPage/static/css/main.d2fd3e81.chunk.css.map",
+    "static/js/2.030aec39.chunk.js.LICENSE.txt": "/Insurance-landingPage/static/js/2.030aec39.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Insurance-landingPage/static/media/bg-pattern-mobile-nav.b2fceba3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef81d7e5.js",
+    "static/js/runtime-main.e196c021.js",
     "static/js/2.030aec39.chunk.js",
-    "static/css/main.48b6230c.chunk.css",
+    "static/css/main.d2fd3e81.chunk.css",
     "static/js/main.0bf2fde5.chunk.js"
   ]
 }

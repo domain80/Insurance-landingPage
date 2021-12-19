@@ -3,7 +3,15 @@ import React from "react";
 function HeroSection() {
 	return (
 		<section className="hero-section">
-			<img src="./images/mobile.jpg" alt="family of 4 holding hands" />
+			<picture>
+				<img
+					// src="./images/desktop.jpg"
+					alt="a family of 4 holding hands"
+					srcset="
+					./images/desktop.jpg 1x,
+					./images/mobile.jpg 5x"
+				/>
+			</picture>
 			<article className="alt-bg">
 				<h1 className="hero-title">Humanizing your insurance.</h1>
 				<p className="hero-text">

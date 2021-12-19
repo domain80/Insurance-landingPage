@@ -14,38 +14,39 @@ function Footer() {
 				<div className="social-icons">
 					<SocialFacebook />
 					<SocialTwitter />
-					<SocialInstagram />
 					<SocialPinterest />
+					<SocialInstagram />
 				</div>
-				<hr />
 			</header>
 
-			<ul>
-				<li className="list-title">Our company</li>
-				<li>How we work </li>
-				<li>Why Insure? </li>
-				<li>View plans</li>
-				<li>Reviews</li>
-			</ul>
-			<ul>
-				<li className="list-title">Help me</li>
-				<li>FAQ</li>
-				<li>Terms of use </li>
-				<li>Privacy policy </li>
-				<li>Cookies</li>
-			</ul>
-			<ul>
-				<li className="list-title">Contact</li>
-				<li>Sales</li>
-				<li>Support</li>
-				<li> Live chat </li>
-			</ul>
-			<ul>
-				<li className="list-title">Others</li>
-				<li>Careers </li>
-				<li>Press </li>
-				<li>Licenses</li>
-			</ul>
+			<div className="footer-links">
+				<ul>
+					<li className="list-title">Our company</li>
+					<li>How we work </li>
+					<li>Why Insure? </li>
+					<li>View plans</li>
+					<li>Reviews</li>
+				</ul>
+				<ul>
+					<li className="list-title">Help me</li>
+					<li>FAQ</li>
+					<li>Terms of use </li>
+					<li>Privacy policy </li>
+					<li>Cookies</li>
+				</ul>
+				<ul>
+					<li className="list-title">Contact</li>
+					<li>Sales</li>
+					<li>Support</li>
+					<li> Live chat </li>
+				</ul>
+				<ul>
+					<li className="list-title">Others</li>
+					<li>Careers </li>
+					<li>Press </li>
+					<li>Licenses</li>
+				</ul>
+			</div>
 		</footer>
 	);
 }

@@ -8,8 +8,10 @@ function App() {
 	return (
 		<>
 			<Navbar />
-			<HeroSection />
-			<AboutSection />
+			<div className="bg-div">
+				<HeroSection />
+				<AboutSection />
+			</div>
 			<Footer />
 		</>
 	);
